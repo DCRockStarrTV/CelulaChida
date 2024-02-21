@@ -39,7 +39,7 @@ public partial class @ACT: IInputActionCollection2, IDisposable
             ],
             ""bindings"": [
                 {
-                    ""name"": ""2D Vector"",
+                    ""name"": ""Movement"",
                     ""id"": ""fd5fc74c-6fab-494e-b49d-257032bc7f80"",
                     ""path"": ""2DVector"",
                     ""interactions"": """",
